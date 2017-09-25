@@ -1,0 +1,2 @@
+INSERT INTO shoppingcart.product (description, name, price) VALUES ('Just when you thought your MacBook Pro was state of the art, Apple introduces the MF839LL/A 13" MacBook Pro with new advanced processing power and graphics.', 'macbook', 1129.23);
+INSERT INTO shoppingcart.product (description, name, price) VALUES ('Phone 8 dramatically improves the most important aspects of the iPhone experience. It introduces advanced new camera systems. The best performance and battery life ever in an iPhone. ', 'iphone8', 978.14);

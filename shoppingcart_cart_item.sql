@@ -1,0 +1,1 @@
+INSERT INTO shoppingcart.cart_item (qty, sub_total, product_id, shopping_cart_id) VALUES (4, 4516.92, 1, null);
